@@ -1,16 +1,8 @@
-// Displaying the main menu for banking management system
-cout << "\n\n\n\tMAIN MENU";
-cout << "\n\n\t01. NEW ACCOUNT";
-cout << "\n\n\t02. DEPOSIT AMOUNT";
-cout << "\n\n\t03. WITHDRAW AMOUNT";
-cout << "\n\n\t04. BALANCE ENQUIRY";
-cout << "\n\n\t05. ALL ACCOUNT HOLDER LIST";
-cout << "\n\n\t06. CLOSE AN ACCOUNT";
-cout << "\n\n\t07. MODIFY AN ACCOUNT";
-cout << "\n\n\t08. EXIT";
+#Displaying the main menu for banking management system
+![image](https://github.com/vidyanandk/Bank_Managment_System/assets/141124787/26a8d82c-964a-4a08-82ae-6c4bf4f90743)
+![image](https://github.com/vidyanandk/Bank_Managment_System/assets/141124787/5fcb8ee3-551b-4ebe-828e-9819341f377f)
 
-Functions work Description 
-
+#Functions' work description according to the above options
 NEW ACCOUNT (Option 01):
 Allows the user to create a new bank account by providing necessary details such as account holder information.
 
