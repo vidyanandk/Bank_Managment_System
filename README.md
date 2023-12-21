@@ -1,8 +1,10 @@
 ![image](https://github.com/vidyanandk/Bank_Managment_System/assets/141124787/26a8d82c-964a-4a08-82ae-6c4bf4f90743)
 <h2> Displaying the main menu for banking management system </h2>
+
 ![image](https://github.com/vidyanandk/Bank_Managment_System/assets/141124787/5fcb8ee3-551b-4ebe-828e-9819341f377f)
 
 <h2>Functions' work description according to the above options </h2>
+<pre>
 <p>
 NEW ACCOUNT (Option 01):
 Allows the user to create a new bank account by providing necessary details such as account holder information.
@@ -19,7 +21,7 @@ Enables users to withdraw money from their accounts. Similar to the deposit opti
 <p>
 BALANCE ENQUIRY (Option 04):
 Provides users with the ability to check the balance of their accounts. After entering the account number, the system displays the current account balance.</p>
-<pre>
+
 ALL ACCOUNT HOLDER LIST (Option 05):
 Displays a comprehensive list of all account holders within the banking system, offering an overview of existing accounts.
 
