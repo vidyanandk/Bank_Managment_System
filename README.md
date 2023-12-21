@@ -1,20 +1,25 @@
-#Displaying the main menu for banking management system
 ![image](https://github.com/vidyanandk/Bank_Managment_System/assets/141124787/26a8d82c-964a-4a08-82ae-6c4bf4f90743)
+<h2> Displaying the main menu for banking management system </h2>
 ![image](https://github.com/vidyanandk/Bank_Managment_System/assets/141124787/5fcb8ee3-551b-4ebe-828e-9819341f377f)
 
-#Functions' work description according to the above options
+<h2>Functions' work description according to the above options </h2>
+<p>
 NEW ACCOUNT (Option 01):
 Allows the user to create a new bank account by providing necessary details such as account holder information.
+</p>
 
+<p>
 DEPOSIT AMOUNT (Option 02):
 Permits users to deposit funds into their existing accounts. The user is prompted to input the account number and the amount to be deposited.
+</p>
 
+<p>
 WITHDRAW AMOUNT (Option 03):
-Enables users to withdraw money from their accounts. Similar to the deposit option, users must input the account number and the withdrawal amount.
-
+Enables users to withdraw money from their accounts. Similar to the deposit option, users must input the account number and the withdrawal amount.</p>
+<p>
 BALANCE ENQUIRY (Option 04):
-Provides users with the ability to check the balance of their accounts. After entering the account number, the system displays the current account balance.
-
+Provides users with the ability to check the balance of their accounts. After entering the account number, the system displays the current account balance.</p>
+<pre>
 ALL ACCOUNT HOLDER LIST (Option 05):
 Displays a comprehensive list of all account holders within the banking system, offering an overview of existing accounts.
 
@@ -26,3 +31,4 @@ Permits users to update details of an existing account, such as contact informat
 
 EXIT (Option 08):
 Provides users with the option to exit the banking management system. Choosing this option terminates the program and returns the user to the operating system.
+</pre>
